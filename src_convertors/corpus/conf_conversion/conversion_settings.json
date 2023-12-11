@@ -1,0 +1,26 @@
+{
+  "corpus_name": "",
+  "corpus_dir": "corpus",
+  "meta_filename": "meta.csv",
+  "error_log": "error.log",
+  "meta_fields":
+  [
+    "author",
+	"title"
+  ],
+  "meta_files_ext": false,
+  "meta_files_dir": false,
+  "meta_files_case_sensitive": true,
+  "languages": ["english", "mari", "russian"],
+  "json_indent": 2,
+  "gzip": false,
+  "convert_quotes": true,
+  "left_quot_mark": "«",
+  "right_quot_mark": "»",
+  "sent_end_punc": "(?:[.!?;;]+(?:[)\\]}>/»]|$)|\\\\n)",
+  "sent_start": "^[A-ZÄÖÜА-ЯЁӤӦӴӞӜ0-9]",
+  "newline_ends_sent": true,
+  "abbreviations": [],
+  "media_length": 60,
+  "language_codes": [0, 1, 2]
+}

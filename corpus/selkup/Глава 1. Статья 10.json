@@ -1,0 +1,654 @@
+{
+  "meta": {
+    "title": "Глава 1. ОБЩИЙ ПОЛОЖЕНИЯН"
+  },
+  "sentences": [
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Статья",
+          "ana": [
+            {
+              "parts": "Статья",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "punct",
+          "wf": "10",
+          "off_start": 7,
+          "off_end": 9,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 10,
+          "off_end": 11,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "Автономнай",
+          "ana": [
+            {
+              "parts": "Автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 12,
+          "off_end": 22,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 23,
+          "off_end": 31,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "административный",
+          "ana": [
+            {
+              "parts": "административный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 32,
+          "off_end": 48,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "центр",
+          "ana": [
+            {
+              "parts": "центр",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 49,
+          "off_end": 54,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 55,
+          "off_end": 56,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Статья 10 . Автономнай округӄый административный центр .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 56,
+          "para_id": 0
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "1",
+          "off_start": 0,
+          "off_end": 1,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 2,
+          "off_end": 3,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "Автономнай",
+          "ana": [
+            {
+              "parts": "Автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 14,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 15,
+          "off_end": 23,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "административный",
+          "ana": [
+            {
+              "parts": "административный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 24,
+          "off_end": 40,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "центрӄа",
+          "ana": [
+            {
+              "parts": "центрӄа",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 41,
+          "off_end": 48,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "ӄэтты",
+          "ana": [
+            {
+              "parts": "ӄэтты",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 49,
+          "off_end": 54,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "Салехард",
+          "ana": [
+            {
+              "parts": "Салехард",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 55,
+          "off_end": 63,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "әӈа",
+          "ana": [
+            {
+              "parts": "әӈа",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 64,
+          "off_end": 67,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 68,
+          "off_end": 69,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "1 . Автономнай округӄый административный центрӄа ӄэтты Салехард әӈа .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 69,
+          "para_id": 1
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "2",
+          "off_start": 0,
+          "off_end": 1,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 18
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 2,
+          "off_end": 3,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 17
+        },
+        {
+          "wtype": "word",
+          "wf": "Салехардат",
+          "ana": [
+            {
+              "parts": "Салехардат",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 14,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 16
+        },
+        {
+          "wtype": "word",
+          "wf": "статус",
+          "ana": [
+            {
+              "parts": "статус",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 15,
+          "off_end": 21,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 15
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 22,
+          "off_end": 32,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 14
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 33,
+          "off_end": 41,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "Уставса",
+          "ana": [
+            {
+              "parts": "Уставса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 42,
+          "off_end": 49,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "punct",
+          "wf": "(",
+          "off_start": 50,
+          "off_end": 51,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "Основной",
+          "ana": [
+            {
+              "parts": "Основной",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 52,
+          "off_end": 60,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "законса",
+          "ana": [
+            {
+              "parts": "законса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 61,
+          "off_end": 68,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "punct",
+          "wf": ")",
+          "off_start": 69,
+          "off_end": 70,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 71,
+          "off_end": 81,
+          "next_word": 12,
+          "sentence_index": 11,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 82,
+          "off_end": 90,
+          "next_word": 13,
+          "sentence_index": 12,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "законса",
+          "ana": [
+            {
+              "parts": "законса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 91,
+          "off_end": 98,
+          "next_word": 14,
+          "sentence_index": 13,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "punct",
+          "wf": ",",
+          "off_start": 99,
+          "off_end": 100,
+          "next_word": 15,
+          "sentence_index": 14,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "Салехардан",
+          "ana": [
+            {
+              "parts": "Салехардан",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 101,
+          "off_end": 111,
+          "next_word": 16,
+          "sentence_index": 15,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "Уставса",
+          "ana": [
+            {
+              "parts": "Уставса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 112,
+          "off_end": 119,
+          "next_word": 17,
+          "sentence_index": 16,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "устанавливаиӈкотын",
+          "ana": [
+            {
+              "parts": "устанавливаиӈкотын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 120,
+          "off_end": 138,
+          "next_word": 18,
+          "sentence_index": 17,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 139,
+          "off_end": 140,
+          "next_word": 19,
+          "sentence_index": 18,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "2 . Салехардат статус автономнай округӄый Уставса ( Основной законса ) автономнай округӄый законса , Салехардан Уставса устанавливаиӈкотын .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 140,
+          "para_id": 2
+        }
+      ]
+    }
+  ]
+}

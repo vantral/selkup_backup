@@ -1,0 +1,885 @@
+{
+  "meta": {
+    "title": "Глава 5. ИСПОЛНИТЕЛЬНАЙ ВЛАСТЬ"
+  },
+  "sentences": [
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Статья",
+          "ana": [
+            {
+              "parts": "Статья",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "punct",
+          "wf": "54",
+          "off_start": 7,
+          "off_end": 9,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 10,
+          "off_end": 11,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "Вице-Губернатор",
+          "ana": [
+            {
+              "parts": "Вице-Губернатор",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 12,
+          "off_end": 27,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 28,
+          "off_end": 38,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 39,
+          "off_end": 47,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 48,
+          "off_end": 49,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Статья 54 . Вице-Губернатор автономнай округӄый .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 49,
+          "para_id": 0
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "1",
+          "off_start": 0,
+          "off_end": 1,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 14
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 2,
+          "off_end": 3,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "Вице-Губернаторым",
+          "ana": [
+            {
+              "parts": "Вице-Губернаторым",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 21,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "Губернатор",
+          "ana": [
+            {
+              "parts": "Губернатор",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 22,
+          "off_end": 32,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 33,
+          "off_end": 43,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 44,
+          "off_end": 52,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "Российскай",
+          "ana": [
+            {
+              "parts": "Российскай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 53,
+          "off_end": 63,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "Федерацияӄый",
+          "ana": [
+            {
+              "parts": "Федерацияӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 64,
+          "off_end": 76,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "punct",
+          "wf": "30",
+          "off_start": 77,
+          "off_end": 79,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "поты",
+          "ana": [
+            {
+              "parts": "поты",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 80,
+          "off_end": 84,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "турыпый",
+          "ana": [
+            {
+              "parts": "турыпый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 85,
+          "off_end": 92,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "ӄумытын",
+          "ana": [
+            {
+              "parts": "ӄумытын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 93,
+          "off_end": 100,
+          "next_word": 12,
+          "sentence_index": 11,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "ноны",
+          "ana": [
+            {
+              "parts": "ноны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 101,
+          "off_end": 105,
+          "next_word": 13,
+          "sentence_index": 12,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "омтылтыкыӈыты",
+          "ana": [
+            {
+              "parts": "омтылтыкыӈыты",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 106,
+          "off_end": 119,
+          "next_word": 14,
+          "sentence_index": 13,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 120,
+          "off_end": 121,
+          "next_word": 15,
+          "sentence_index": 14,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "1 . Вице-Губернаторым Губернатор автономнай округӄый Российскай Федерацияӄый 30 поты турыпый ӄумытын ноны омтылтыкыӈыты .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 121,
+          "para_id": 1
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "2",
+          "off_start": 0,
+          "off_end": 1,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 25
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 2,
+          "off_end": 3,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 24
+        },
+        {
+          "wtype": "word",
+          "wf": "Кущат",
+          "ana": [
+            {
+              "parts": "Кущат",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 9,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 23
+        },
+        {
+          "wtype": "word",
+          "wf": "назначаиӈпый",
+          "ana": [
+            {
+              "parts": "назначаиӈпый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 10,
+          "off_end": 22,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 22
+        },
+        {
+          "wtype": "word",
+          "wf": "Вице-Губернатор",
+          "ana": [
+            {
+              "parts": "Вице-Губернатор",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 23,
+          "off_end": 38,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 21
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 39,
+          "off_end": 49,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 20
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 50,
+          "off_end": 58,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 19
+        },
+        {
+          "wtype": "word",
+          "wf": "онты",
+          "ana": [
+            {
+              "parts": "онты",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 59,
+          "off_end": 63,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 18
+        },
+        {
+          "wtype": "word",
+          "wf": "обязанностямты",
+          "ana": [
+            {
+              "parts": "обязанностямты",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 64,
+          "off_end": 78,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 17
+        },
+        {
+          "wtype": "word",
+          "wf": "истап",
+          "ana": [
+            {
+              "parts": "истап",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 79,
+          "off_end": 84,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 16
+        },
+        {
+          "wtype": "word",
+          "wf": "причинаса",
+          "ana": [
+            {
+              "parts": "причинаса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 85,
+          "off_end": 94,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 15
+        },
+        {
+          "wtype": "word",
+          "wf": "аща",
+          "ana": [
+            {
+              "parts": "аща",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 95,
+          "off_end": 98,
+          "next_word": 12,
+          "sentence_index": 11,
+          "sentence_index_neg": 14
+        },
+        {
+          "wtype": "word",
+          "wf": "мекыцыты",
+          "ana": [
+            {
+              "parts": "мекыцыты",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 99,
+          "off_end": 107,
+          "next_word": 13,
+          "sentence_index": 12,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "punct",
+          "wf": ",",
+          "off_start": 108,
+          "off_end": 109,
+          "next_word": 14,
+          "sentence_index": 13,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "нащан",
+          "ana": [
+            {
+              "parts": "нащан",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 110,
+          "off_end": 115,
+          "next_word": 15,
+          "sentence_index": 14,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "Губернатор",
+          "ana": [
+            {
+              "parts": "Губернатор",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 116,
+          "off_end": 126,
+          "next_word": 16,
+          "sentence_index": 15,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 127,
+          "off_end": 137,
+          "next_word": 17,
+          "sentence_index": 16,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 138,
+          "off_end": 146,
+          "next_word": 18,
+          "sentence_index": 17,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "щитты",
+          "ana": [
+            {
+              "parts": "щитты",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 147,
+          "off_end": 152,
+          "next_word": 19,
+          "sentence_index": 18,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "иряткунты",
+          "ana": [
+            {
+              "parts": "иряткунты",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 153,
+          "off_end": 162,
+          "next_word": 20,
+          "sentence_index": 19,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "мэный",
+          "ana": [
+            {
+              "parts": "мэный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 163,
+          "off_end": 168,
+          "next_word": 21,
+          "sentence_index": 20,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "Вице-Губернаторым",
+          "ana": [
+            {
+              "parts": "Вице-Губернаторым",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 169,
+          "off_end": 186,
+          "next_word": 22,
+          "sentence_index": 21,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 187,
+          "off_end": 197,
+          "next_word": 23,
+          "sentence_index": 22,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 198,
+          "off_end": 206,
+          "next_word": 24,
+          "sentence_index": 23,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "назначаиӈкыӈыты",
+          "ana": [
+            {
+              "parts": "назначаиӈкыӈыты",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 207,
+          "off_end": 222,
+          "next_word": 25,
+          "sentence_index": 24,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 223,
+          "off_end": 224,
+          "next_word": 26,
+          "sentence_index": 25,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "2 . Кущат назначаиӈпый Вице-Губернатор автономнай округӄый онты обязанностямты истап причинаса аща мекыцыты , нащан Губернатор автономнай округӄый щитты иряткунты мэный Вице-Губернаторым автономнай округӄый назначаиӈкыӈыты .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 224,
+          "para_id": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "meta": {
+    "title": "Глава 3. АВТОНОМНАЙ ОКРУГӃЫЙ"
+  },
+  "sentences": [
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Статья",
+          "ana": [
+            {
+              "parts": "Статья",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "punct",
+          "wf": "35",
+          "off_start": 7,
+          "off_end": 9,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 10,
+          "off_end": 11,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "Автономнай",
+          "ana": [
+            {
+              "parts": "Автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 12,
+          "off_end": 22,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 23,
+          "off_end": 31,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "целевой",
+          "ana": [
+            {
+              "parts": "целевой",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 32,
+          "off_end": 39,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "бюджетный",
+          "ana": [
+            {
+              "parts": "бюджетный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 40,
+          "off_end": 49,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "фондан",
+          "ana": [
+            {
+              "parts": "фондан",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 50,
+          "off_end": 56,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 57,
+          "off_end": 58,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Статья 35 . Автономнай округӄый целевой бюджетный фондан .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 58,
+          "para_id": 0
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "1",
+          "off_start": 0,
+          "off_end": 1,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 37
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 2,
+          "off_end": 3,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 36
+        },
+        {
+          "wtype": "word",
+          "wf": "Автономнай",
+          "ana": [
+            {
+              "parts": "Автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 14,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 35
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄын",
+          "ana": [
+            {
+              "parts": "округӄын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 15,
+          "off_end": 23,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 34
+        },
+        {
+          "wtype": "word",
+          "wf": "соответствияса",
+          "ana": [
+            {
+              "parts": "соответствияса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 24,
+          "off_end": 38,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 33
+        },
+        {
+          "wtype": "word",
+          "wf": "федеральный",
+          "ana": [
+            {
+              "parts": "федеральный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 39,
+          "off_end": 50,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 32
+        },
+        {
+          "wtype": "word",
+          "wf": "ныны",
+          "ana": [
+            {
+              "parts": "ныны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 51,
+          "off_end": 55,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 31
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 56,
+          "off_end": 66,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 30
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 67,
+          "off_end": 75,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 29
+        },
+        {
+          "wtype": "word",
+          "wf": "законыймыса",
+          "ana": [
+            {
+              "parts": "законыймыса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 76,
+          "off_end": 87,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 28
+        },
+        {
+          "wtype": "word",
+          "wf": "окружной",
+          "ana": [
+            {
+              "parts": "окружной",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 88,
+          "off_end": 96,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 27
+        },
+        {
+          "wtype": "word",
+          "wf": "целевой",
+          "ana": [
+            {
+              "parts": "целевой",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 97,
+          "off_end": 104,
+          "next_word": 12,
+          "sentence_index": 11,
+          "sentence_index_neg": 26
+        },
+        {
+          "wtype": "word",
+          "wf": "фондатып",
+          "ana": [
+            {
+              "parts": "фондатып",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 105,
+          "off_end": 113,
+          "next_word": 13,
+          "sentence_index": 12,
+          "sentence_index_neg": 25
+        },
+        {
+          "wtype": "word",
+          "wf": "создаваиӈкотын",
+          "ana": [
+            {
+              "parts": "создаваиӈкотын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 114,
+          "off_end": 128,
+          "next_word": 14,
+          "sentence_index": 13,
+          "sentence_index_neg": 24
+        },
+        {
+          "wtype": "punct",
+          "wf": ",",
+          "off_start": 129,
+          "off_end": 130,
+          "next_word": 15,
+          "sentence_index": 14,
+          "sentence_index_neg": 23
+        },
+        {
+          "wtype": "word",
+          "wf": "формироваиӈпый",
+          "ana": [
+            {
+              "parts": "формироваиӈпый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 131,
+          "off_end": 145,
+          "next_word": 16,
+          "sentence_index": 15,
+          "sentence_index_neg": 22
+        },
+        {
+          "wtype": "word",
+          "wf": "специальный",
+          "ana": [
+            {
+              "parts": "специальный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 146,
+          "off_end": 157,
+          "next_word": 17,
+          "sentence_index": 16,
+          "sentence_index_neg": 21
+        },
+        {
+          "wtype": "word",
+          "wf": "взностын",
+          "ana": [
+            {
+              "parts": "взностын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 158,
+          "off_end": 166,
+          "next_word": 18,
+          "sentence_index": 17,
+          "sentence_index_neg": 20
+        },
+        {
+          "wtype": "word",
+          "wf": "ноны",
+          "ana": [
+            {
+              "parts": "ноны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 167,
+          "off_end": 171,
+          "next_word": 19,
+          "sentence_index": 18,
+          "sentence_index_neg": 19
+        },
+        {
+          "wtype": "word",
+          "wf": "мэный",
+          "ana": [
+            {
+              "parts": "мэный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 172,
+          "off_end": 177,
+          "next_word": 20,
+          "sentence_index": 19,
+          "sentence_index_neg": 18
+        },
+        {
+          "wtype": "word",
+          "wf": "поступлениятын",
+          "ana": [
+            {
+              "parts": "поступлениятын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 178,
+          "off_end": 192,
+          "next_word": 21,
+          "sentence_index": 20,
+          "sentence_index_neg": 17
+        },
+        {
+          "wtype": "word",
+          "wf": "ноны",
+          "ana": [
+            {
+              "parts": "ноны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 193,
+          "off_end": 197,
+          "next_word": 22,
+          "sentence_index": 21,
+          "sentence_index_neg": 16
+        },
+        {
+          "wtype": "word",
+          "wf": "добровольный",
+          "ana": [
+            {
+              "parts": "добровольный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 198,
+          "off_end": 210,
+          "next_word": 23,
+          "sentence_index": 22,
+          "sentence_index_neg": 15
+        },
+        {
+          "wtype": "word",
+          "wf": "взностын",
+          "ana": [
+            {
+              "parts": "взностын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 211,
+          "off_end": 219,
+          "next_word": 24,
+          "sentence_index": 23,
+          "sentence_index_neg": 14
+        },
+        {
+          "wtype": "word",
+          "wf": "ноныӄумытын",
+          "ana": [
+            {
+              "parts": "ноныӄумытын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 220,
+          "off_end": 231,
+          "next_word": 25,
+          "sentence_index": 24,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "пожертвованиян",
+          "ana": [
+            {
+              "parts": "пожертвованиян",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 232,
+          "off_end": 246,
+          "next_word": 26,
+          "sentence_index": 25,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "ноны",
+          "ana": [
+            {
+              "parts": "ноны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 247,
+          "off_end": 251,
+          "next_word": 27,
+          "sentence_index": 26,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "punct",
+          "wf": ",",
+          "off_start": 252,
+          "off_end": 253,
+          "next_word": 28,
+          "sentence_index": 27,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "организацятын",
+          "ana": [
+            {
+              "parts": "организацятын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 254,
+          "off_end": 267,
+          "next_word": 29,
+          "sentence_index": 28,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "ныны",
+          "ana": [
+            {
+              "parts": "ныны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 268,
+          "off_end": 272,
+          "next_word": 30,
+          "sentence_index": 29,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "мэный",
+          "ana": [
+            {
+              "parts": "мэный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 273,
+          "off_end": 278,
+          "next_word": 31,
+          "sentence_index": 30,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "источникатын",
+          "ana": [
+            {
+              "parts": "источникатын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 279,
+          "off_end": 291,
+          "next_word": 32,
+          "sentence_index": 31,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "ноны",
+          "ana": [
+            {
+              "parts": "ноны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 292,
+          "off_end": 296,
+          "next_word": 33,
+          "sentence_index": 32,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "законыт",
+          "ana": [
+            {
+              "parts": "законыт",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 297,
+          "off_end": 304,
+          "next_word": 34,
+          "sentence_index": 33,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "аща",
+          "ana": [
+            {
+              "parts": "аща",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 305,
+          "off_end": 308,
+          "next_word": 35,
+          "sentence_index": 34,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "такытымпый",
+          "ana": [
+            {
+              "parts": "такытымпый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 309,
+          "off_end": 319,
+          "next_word": 36,
+          "sentence_index": 35,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "уромат",
+          "ana": [
+            {
+              "parts": "уромат",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 320,
+          "off_end": 326,
+          "next_word": 37,
+          "sentence_index": 36,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 327,
+          "off_end": 328,
+          "next_word": 38,
+          "sentence_index": 37,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "1 . Автономнай округӄын соответствияса федеральный ныны автономнай округӄый законыймыса окружной целевой фондатып создаваиӈкотын , формироваиӈпый специальный взностын ноны мэный поступлениятын ноны добровольный взностын ноныӄумытын пожертвованиян ноны , организацятын ныны мэный источникатын ноны законыт аща такытымпый уромат .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 328,
+          "para_id": 1
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "2",
+          "off_start": 0,
+          "off_end": 1,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 22
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 2,
+          "off_end": 3,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 21
+        },
+        {
+          "wtype": "word",
+          "wf": "Средстван",
+          "ana": [
+            {
+              "parts": "Средстван",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 13,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 20
+        },
+        {
+          "wtype": "word",
+          "wf": "окружной",
+          "ana": [
+            {
+              "parts": "окружной",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 14,
+          "off_end": 22,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 19
+        },
+        {
+          "wtype": "word",
+          "wf": "валютнай",
+          "ana": [
+            {
+              "parts": "валютнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 23,
+          "off_end": 31,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 18
+        },
+        {
+          "wtype": "word",
+          "wf": "фондаймын",
+          "ana": [
+            {
+              "parts": "фондаймын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 32,
+          "off_end": 41,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 17
+        },
+        {
+          "wtype": "word",
+          "wf": "специальный",
+          "ana": [
+            {
+              "parts": "специальный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 42,
+          "off_end": 53,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 16
+        },
+        {
+          "wtype": "word",
+          "wf": "счетӄын",
+          "ana": [
+            {
+              "parts": "счетӄын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 54,
+          "off_end": 61,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 15
+        },
+        {
+          "wtype": "word",
+          "wf": "мэротын",
+          "ana": [
+            {
+              "parts": "мэротын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 62,
+          "off_end": 69,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 14
+        },
+        {
+          "wtype": "punct",
+          "wf": ",",
+          "off_start": 70,
+          "off_end": 71,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "нумпый",
+          "ana": [
+            {
+              "parts": "нумпый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 72,
+          "off_end": 78,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "банковский",
+          "ana": [
+            {
+              "parts": "банковский",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 79,
+          "off_end": 89,
+          "next_word": 12,
+          "sentence_index": 11,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "учрежденияӄын",
+          "ana": [
+            {
+              "parts": "учрежденияӄын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 90,
+          "off_end": 103,
+          "next_word": 13,
+          "sentence_index": 12,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "установливаиӈпый",
+          "ana": [
+            {
+              "parts": "установливаиӈпый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 104,
+          "off_end": 120,
+          "next_word": 14,
+          "sentence_index": 13,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "порядкаса",
+          "ana": [
+            {
+              "parts": "порядкаса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 121,
+          "off_end": 130,
+          "next_word": 15,
+          "sentence_index": 14,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "федеральный",
+          "ana": [
+            {
+              "parts": "федеральный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 131,
+          "off_end": 142,
+          "next_word": 16,
+          "sentence_index": 15,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "ныны",
+          "ana": [
+            {
+              "parts": "ныны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 143,
+          "off_end": 147,
+          "next_word": 17,
+          "sentence_index": 16,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 148,
+          "off_end": 158,
+          "next_word": 18,
+          "sentence_index": 17,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 159,
+          "off_end": 167,
+          "next_word": 19,
+          "sentence_index": 18,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "законытын",
+          "ana": [
+            {
+              "parts": "законытын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 168,
+          "off_end": 177,
+          "next_word": 20,
+          "sentence_index": 19,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "уромын",
+          "ana": [
+            {
+              "parts": "уромын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 178,
+          "off_end": 184,
+          "next_word": 21,
+          "sentence_index": 20,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "расходывайкотын",
+          "ana": [
+            {
+              "parts": "расходывайкотын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 185,
+          "off_end": 200,
+          "next_word": 22,
+          "sentence_index": 21,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 201,
+          "off_end": 202,
+          "next_word": 23,
+          "sentence_index": 22,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "2 . Средстван окружной валютнай фондаймын специальный счетӄын мэротын , нумпый банковский учрежденияӄын установливаиӈпый порядкаса федеральный ныны автономнай округӄый законытын уромын расходывайкотын .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 202,
+          "para_id": 2
+        }
+      ]
+    }
+  ]
+}

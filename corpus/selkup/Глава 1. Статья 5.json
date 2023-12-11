@@ -1,0 +1,2051 @@
+{
+  "meta": {
+    "title": "Глава 1. ОБЩИЙ ПОЛОЖЕНИЯН"
+  },
+  "sentences": [
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Статья",
+          "ana": [
+            {
+              "parts": "Статья",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "punct",
+          "wf": "5",
+          "off_start": 7,
+          "off_end": 8,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 9,
+          "off_end": 10,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "•",
+          "ana": [
+            {
+              "parts": "•",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 11,
+          "off_end": 12,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "Автономнай",
+          "ana": [
+            {
+              "parts": "Автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 13,
+          "off_end": 23,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 24,
+          "off_end": 32,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "территорияӄын",
+          "ana": [
+            {
+              "parts": "территорияӄын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 33,
+          "off_end": 46,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "Государственнай",
+          "ana": [
+            {
+              "parts": "Государственнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 47,
+          "off_end": 62,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "власть",
+          "ana": [
+            {
+              "parts": "власть",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 63,
+          "off_end": 69,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Статья 5 . • Автономнай округӄый территорияӄын Государственнай власть",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 69,
+          "para_id": 0
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "1",
+          "off_start": 0,
+          "off_end": 1,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 2,
+          "off_end": 3,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "Автономнай",
+          "ana": [
+            {
+              "parts": "Автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 14,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄын",
+          "ana": [
+            {
+              "parts": "округӄын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 15,
+          "off_end": 23,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "Государственнай",
+          "ana": [
+            {
+              "parts": "Государственнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 24,
+          "off_end": 39,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "властьосуществляицпа",
+          "ana": [
+            {
+              "parts": "властьосуществляицпа",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 40,
+          "off_end": 60,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "основаса",
+          "ana": [
+            {
+              "parts": "основаса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 61,
+          "off_end": 69,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "разделяиӈпый",
+          "ana": [
+            {
+              "parts": "разделяиӈпый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 70,
+          "off_end": 82,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "законодательный",
+          "ana": [
+            {
+              "parts": "законодательный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 83,
+          "off_end": 98,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "punct",
+          "wf": ",",
+          "off_start": 99,
+          "off_end": 100,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "исполнительный",
+          "ana": [
+            {
+              "parts": "исполнительный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 101,
+          "off_end": 115,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "punct",
+          "wf": ",",
+          "off_start": 116,
+          "off_end": 117,
+          "next_word": 12,
+          "sentence_index": 11,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "судебный",
+          "ana": [
+            {
+              "parts": "судебный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 118,
+          "off_end": 126,
+          "next_word": 13,
+          "sentence_index": 12,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 127,
+          "off_end": 128,
+          "next_word": 14,
+          "sentence_index": 13,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "1 . Автономнай округӄын Государственнай властьосуществляицпа основаса разделяиӈпый законодательный , исполнительный , судебный .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 128,
+          "para_id": 1
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "2",
+          "off_start": 0,
+          "off_end": 1,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 14
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 2,
+          "off_end": 3,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "Органын",
+          "ana": [
+            {
+              "parts": "Органын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 11,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "законодательнай",
+          "ana": [
+            {
+              "parts": "законодательнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 12,
+          "off_end": 27,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "punct",
+          "wf": ",",
+          "off_start": 28,
+          "off_end": 29,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "исполнительнай",
+          "ana": [
+            {
+              "parts": "исполнительнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 30,
+          "off_end": 44,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "ныны",
+          "ana": [
+            {
+              "parts": "ныны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 45,
+          "off_end": 49,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "судебнай",
+          "ana": [
+            {
+              "parts": "судебнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 50,
+          "off_end": 58,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "властин",
+          "ana": [
+            {
+              "parts": "властин",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 59,
+          "off_end": 66,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "самостоятельна",
+          "ana": [
+            {
+              "parts": "самостоятельна",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 67,
+          "off_end": 81,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "әӈотын",
+          "ana": [
+            {
+              "parts": "әӈотын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 82,
+          "off_end": 88,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "онтын",
+          "ana": [
+            {
+              "parts": "онтын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 89,
+          "off_end": 94,
+          "next_word": 12,
+          "sentence_index": 11,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "полномочиямтын",
+          "ana": [
+            {
+              "parts": "полномочиямтын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 95,
+          "off_end": 109,
+          "next_word": 13,
+          "sentence_index": 12,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "осуществляиӈпыптаӄын",
+          "ana": [
+            {
+              "parts": "осуществляиӈпыптаӄын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 110,
+          "off_end": 130,
+          "next_word": 14,
+          "sentence_index": 13,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 131,
+          "off_end": 132,
+          "next_word": 15,
+          "sentence_index": 14,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "2 . Органын законодательнай , исполнительнай ныны судебнай властин самостоятельна әӈотын онтын полномочиямтын осуществляиӈпыптаӄын .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 132,
+          "para_id": 2
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "punct",
+          "wf": "3",
+          "off_start": 0,
+          "off_end": 1,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 76
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 2,
+          "off_end": 3,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 75
+        },
+        {
+          "wtype": "word",
+          "wf": "Автономнай",
+          "ana": [
+            {
+              "parts": "Автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 4,
+          "off_end": 14,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 74
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄын",
+          "ana": [
+            {
+              "parts": "округӄын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 15,
+          "off_end": 23,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 73
+        },
+        {
+          "wtype": "word",
+          "wf": "Государственнай",
+          "ana": [
+            {
+              "parts": "Государственнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 24,
+          "off_end": 39,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 72
+        },
+        {
+          "wtype": "word",
+          "wf": "властим",
+          "ana": [
+            {
+              "parts": "властим",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 40,
+          "off_end": 47,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 71
+        },
+        {
+          "wtype": "word",
+          "wf": "осуществляицпотын",
+          "ana": [
+            {
+              "parts": "осуществляицпотын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 48,
+          "off_end": 65,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 70
+        },
+        {
+          "wtype": "punct",
+          "wf": ":",
+          "off_start": 66,
+          "off_end": 67,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 69
+        },
+        {
+          "wtype": "word",
+          "wf": "а",
+          "ana": [
+            {
+              "parts": "а",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 68,
+          "off_end": 69,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 68
+        },
+        {
+          "wtype": "punct",
+          "wf": ")",
+          "off_start": 70,
+          "off_end": 71,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 67
+        },
+        {
+          "wtype": "word",
+          "wf": "законодательный",
+          "ana": [
+            {
+              "parts": "законодательный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 72,
+          "off_end": 87,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 66
+        },
+        {
+          "wtype": "word",
+          "wf": "властим",
+          "ana": [
+            {
+              "parts": "властим",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 88,
+          "off_end": 95,
+          "next_word": 12,
+          "sentence_index": 11,
+          "sentence_index_neg": 65
+        },
+        {
+          "wtype": "punct",
+          "wf": "-",
+          "off_start": 96,
+          "off_end": 97,
+          "next_word": 13,
+          "sentence_index": 12,
+          "sentence_index_neg": 64
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 98,
+          "off_end": 108,
+          "next_word": 14,
+          "sentence_index": 13,
+          "sentence_index_neg": 63
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 109,
+          "off_end": 117,
+          "next_word": 15,
+          "sentence_index": 14,
+          "sentence_index_neg": 62
+        },
+        {
+          "wtype": "word",
+          "wf": "насаления",
+          "ana": [
+            {
+              "parts": "насаления",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 118,
+          "off_end": 127,
+          "next_word": 16,
+          "sentence_index": 15,
+          "sentence_index_neg": 61
+        },
+        {
+          "wtype": "word",
+          "wf": "посредстваса",
+          "ana": [
+            {
+              "parts": "посредстваса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 128,
+          "off_end": 140,
+          "next_word": 17,
+          "sentence_index": 16,
+          "sentence_index_neg": 60
+        },
+        {
+          "wtype": "word",
+          "wf": "окружной",
+          "ana": [
+            {
+              "parts": "окружной",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 141,
+          "off_end": 149,
+          "next_word": 18,
+          "sentence_index": 17,
+          "sentence_index_neg": 59
+        },
+        {
+          "wtype": "word",
+          "wf": "референдумса",
+          "ana": [
+            {
+              "parts": "референдумса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 150,
+          "off_end": 162,
+          "next_word": 19,
+          "sentence_index": 18,
+          "sentence_index_neg": 58
+        },
+        {
+          "wtype": "word",
+          "wf": "ныны",
+          "ana": [
+            {
+              "parts": "ныны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 163,
+          "off_end": 167,
+          "next_word": 20,
+          "sentence_index": 19,
+          "sentence_index_neg": 57
+        },
+        {
+          "wtype": "word",
+          "wf": "законодательнай",
+          "ana": [
+            {
+              "parts": "законодательнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 168,
+          "off_end": 183,
+          "next_word": 21,
+          "sentence_index": 20,
+          "sentence_index_neg": 56
+        },
+        {
+          "wtype": "punct",
+          "wf": "(",
+          "off_start": 184,
+          "off_end": 185,
+          "next_word": 22,
+          "sentence_index": 21,
+          "sentence_index_neg": 55
+        },
+        {
+          "wtype": "word",
+          "wf": "представительнай",
+          "ana": [
+            {
+              "parts": "представительнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 186,
+          "off_end": 202,
+          "next_word": 23,
+          "sentence_index": 22,
+          "sentence_index_neg": 54
+        },
+        {
+          "wtype": "punct",
+          "wf": ")",
+          "off_start": 203,
+          "off_end": 204,
+          "next_word": 24,
+          "sentence_index": 23,
+          "sentence_index_neg": 53
+        },
+        {
+          "wtype": "word",
+          "wf": "властьса",
+          "ana": [
+            {
+              "parts": "властьса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 205,
+          "off_end": 213,
+          "next_word": 25,
+          "sentence_index": 24,
+          "sentence_index_neg": 52
+        },
+        {
+          "wtype": "word",
+          "wf": "органын",
+          "ana": [
+            {
+              "parts": "органын",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 214,
+          "off_end": 221,
+          "next_word": 26,
+          "sentence_index": 25,
+          "sentence_index_neg": 51
+        },
+        {
+          "wtype": "word",
+          "wf": "государственнай",
+          "ana": [
+            {
+              "parts": "государственнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 222,
+          "off_end": 237,
+          "next_word": 27,
+          "sentence_index": 26,
+          "sentence_index_neg": 50
+        },
+        {
+          "wtype": "word",
+          "wf": "властьӄый",
+          "ana": [
+            {
+              "parts": "властьӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 238,
+          "off_end": 247,
+          "next_word": 28,
+          "sentence_index": 27,
+          "sentence_index_neg": 49
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 248,
+          "off_end": 258,
+          "next_word": 29,
+          "sentence_index": 28,
+          "sentence_index_neg": 48
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 259,
+          "off_end": 267,
+          "next_word": 30,
+          "sentence_index": 29,
+          "sentence_index_neg": 47
+        },
+        {
+          "wtype": "punct",
+          "wf": "-",
+          "off_start": 268,
+          "off_end": 269,
+          "next_word": 31,
+          "sentence_index": 30,
+          "sentence_index_neg": 46
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 270,
+          "off_end": 280,
+          "next_word": 32,
+          "sentence_index": 31,
+          "sentence_index_neg": 45
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 281,
+          "off_end": 289,
+          "next_word": 33,
+          "sentence_index": 32,
+          "sentence_index_neg": 44
+        },
+        {
+          "wtype": "word",
+          "wf": "Государственнай",
+          "ana": [
+            {
+              "parts": "Государственнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 290,
+          "off_end": 305,
+          "next_word": 34,
+          "sentence_index": 33,
+          "sentence_index_neg": 43
+        },
+        {
+          "wtype": "word",
+          "wf": "Думам",
+          "ana": [
+            {
+              "parts": "Думам",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 306,
+          "off_end": 311,
+          "next_word": 35,
+          "sentence_index": 34,
+          "sentence_index_neg": 42
+        },
+        {
+          "wtype": "punct",
+          "wf": ";",
+          "off_start": 312,
+          "off_end": 313,
+          "next_word": 36,
+          "sentence_index": 35,
+          "sentence_index_neg": 41
+        },
+        {
+          "wtype": "word",
+          "wf": "б",
+          "ana": [
+            {
+              "parts": "б",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 314,
+          "off_end": 315,
+          "next_word": 37,
+          "sentence_index": 36,
+          "sentence_index_neg": 40
+        },
+        {
+          "wtype": "punct",
+          "wf": ")",
+          "off_start": 316,
+          "off_end": 317,
+          "next_word": 38,
+          "sentence_index": 37,
+          "sentence_index_neg": 39
+        },
+        {
+          "wtype": "word",
+          "wf": "исполнительный",
+          "ana": [
+            {
+              "parts": "исполнительный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 318,
+          "off_end": 332,
+          "next_word": 39,
+          "sentence_index": 38,
+          "sentence_index_neg": 38
+        },
+        {
+          "wtype": "word",
+          "wf": "властим-мэрӄы",
+          "ana": [
+            {
+              "parts": "властим-мэрӄы",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 333,
+          "off_end": 346,
+          "next_word": 40,
+          "sentence_index": 39,
+          "sentence_index_neg": 37
+        },
+        {
+          "wtype": "word",
+          "wf": "исполнительнай",
+          "ana": [
+            {
+              "parts": "исполнительнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 347,
+          "off_end": 361,
+          "next_word": 41,
+          "sentence_index": 40,
+          "sentence_index_neg": 36
+        },
+        {
+          "wtype": "word",
+          "wf": "орган",
+          "ana": [
+            {
+              "parts": "орган",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 362,
+          "off_end": 367,
+          "next_word": 42,
+          "sentence_index": 41,
+          "sentence_index_neg": 35
+        },
+        {
+          "wtype": "word",
+          "wf": "государственнай",
+          "ana": [
+            {
+              "parts": "государственнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 368,
+          "off_end": 383,
+          "next_word": 43,
+          "sentence_index": 42,
+          "sentence_index_neg": 34
+        },
+        {
+          "wtype": "word",
+          "wf": "властыӄый",
+          "ana": [
+            {
+              "parts": "властыӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 384,
+          "off_end": 393,
+          "next_word": 44,
+          "sentence_index": 43,
+          "sentence_index_neg": 33
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 394,
+          "off_end": 404,
+          "next_word": 45,
+          "sentence_index": 44,
+          "sentence_index_neg": 32
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 405,
+          "off_end": 413,
+          "next_word": 46,
+          "sentence_index": 45,
+          "sentence_index_neg": 31
+        },
+        {
+          "wtype": "punct",
+          "wf": ",",
+          "off_start": 414,
+          "off_end": 415,
+          "next_word": 47,
+          "sentence_index": 46,
+          "sentence_index_neg": 30
+        },
+        {
+          "wtype": "word",
+          "wf": "возглавляиӈпый",
+          "ana": [
+            {
+              "parts": "возглавляиӈпый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 416,
+          "off_end": 430,
+          "next_word": 48,
+          "sentence_index": 47,
+          "sentence_index_neg": 29
+        },
+        {
+          "wtype": "word",
+          "wf": "мэркы",
+          "ana": [
+            {
+              "parts": "мэркы",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 431,
+          "off_end": 436,
+          "next_word": 49,
+          "sentence_index": 48,
+          "sentence_index_neg": 28
+        },
+        {
+          "wtype": "word",
+          "wf": "должностной",
+          "ana": [
+            {
+              "parts": "должностной",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 437,
+          "off_end": 448,
+          "next_word": 50,
+          "sentence_index": 49,
+          "sentence_index_neg": 27
+        },
+        {
+          "wtype": "word",
+          "wf": "лицоса",
+          "ana": [
+            {
+              "parts": "лицоса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 449,
+          "off_end": 455,
+          "next_word": 51,
+          "sentence_index": 50,
+          "sentence_index_neg": 26
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 456,
+          "off_end": 466,
+          "next_word": 52,
+          "sentence_index": 51,
+          "sentence_index_neg": 25
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 467,
+          "off_end": 475,
+          "next_word": 53,
+          "sentence_index": 52,
+          "sentence_index_neg": 24
+        },
+        {
+          "wtype": "punct",
+          "wf": "-",
+          "off_start": 476,
+          "off_end": 477,
+          "next_word": 54,
+          "sentence_index": 53,
+          "sentence_index_neg": 23
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 478,
+          "off_end": 488,
+          "next_word": 55,
+          "sentence_index": 54,
+          "sentence_index_neg": 22
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 489,
+          "off_end": 497,
+          "next_word": 56,
+          "sentence_index": 55,
+          "sentence_index_neg": 21
+        },
+        {
+          "wtype": "word",
+          "wf": "Губернаторса",
+          "ana": [
+            {
+              "parts": "Губернаторса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 498,
+          "off_end": 510,
+          "next_word": 57,
+          "sentence_index": 56,
+          "sentence_index_neg": 20
+        },
+        {
+          "wtype": "punct",
+          "wf": ",",
+          "off_start": 511,
+          "off_end": 512,
+          "next_word": 58,
+          "sentence_index": 57,
+          "sentence_index_neg": 19
+        },
+        {
+          "wtype": "word",
+          "wf": "ныны",
+          "ana": [
+            {
+              "parts": "ныны",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 513,
+          "off_end": 517,
+          "next_word": 59,
+          "sentence_index": 58,
+          "sentence_index_neg": 18
+        },
+        {
+          "wtype": "word",
+          "wf": "формироваиӈпый",
+          "ana": [
+            {
+              "parts": "формироваиӈпый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 518,
+          "off_end": 532,
+          "next_word": 60,
+          "sentence_index": 59,
+          "sentence_index_neg": 17
+        },
+        {
+          "wtype": "word",
+          "wf": "мэрӄы",
+          "ana": [
+            {
+              "parts": "мэрӄы",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 533,
+          "off_end": 538,
+          "next_word": 61,
+          "sentence_index": 60,
+          "sentence_index_neg": 16
+        },
+        {
+          "wtype": "word",
+          "wf": "исполнительный",
+          "ana": [
+            {
+              "parts": "исполнительный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 539,
+          "off_end": 553,
+          "next_word": 62,
+          "sentence_index": 61,
+          "sentence_index_neg": 15
+        },
+        {
+          "wtype": "word",
+          "wf": "органса",
+          "ana": [
+            {
+              "parts": "органса",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 554,
+          "off_end": 561,
+          "next_word": 63,
+          "sentence_index": 62,
+          "sentence_index_neg": 14
+        },
+        {
+          "wtype": "word",
+          "wf": "государственнай",
+          "ana": [
+            {
+              "parts": "государственнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 562,
+          "off_end": 577,
+          "next_word": 64,
+          "sentence_index": 63,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "властьӄый",
+          "ana": [
+            {
+              "parts": "властьӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 578,
+          "off_end": 587,
+          "next_word": 65,
+          "sentence_index": 64,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 588,
+          "off_end": 598,
+          "next_word": 66,
+          "sentence_index": 65,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 599,
+          "off_end": 607,
+          "next_word": 67,
+          "sentence_index": 66,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "punct",
+          "wf": ";",
+          "off_start": 608,
+          "off_end": 609,
+          "next_word": 68,
+          "sentence_index": 67,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "в",
+          "ana": [
+            {
+              "parts": "в",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 610,
+          "off_end": 611,
+          "next_word": 69,
+          "sentence_index": 68,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "punct",
+          "wf": ")",
+          "off_start": 612,
+          "off_end": 613,
+          "next_word": 70,
+          "sentence_index": 69,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "судебный",
+          "ana": [
+            {
+              "parts": "судебный",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 614,
+          "off_end": 622,
+          "next_word": 71,
+          "sentence_index": 70,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "властим",
+          "ana": [
+            {
+              "parts": "властим",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 623,
+          "off_end": 630,
+          "next_word": 72,
+          "sentence_index": 71,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "punct",
+          "wf": "-",
+          "off_start": 631,
+          "off_end": 632,
+          "next_word": 73,
+          "sentence_index": 72,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "автономнай",
+          "ana": [
+            {
+              "parts": "автономнай",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 633,
+          "off_end": 643,
+          "next_word": 74,
+          "sentence_index": 73,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "округӄый",
+          "ana": [
+            {
+              "parts": "округӄый",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 644,
+          "off_end": 652,
+          "next_word": 75,
+          "sentence_index": 74,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "суд",
+          "ana": [
+            {
+              "parts": "суд",
+              "gloss": "",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "",
+              "gloss_index_ru": ""
+            }
+          ],
+          "off_start": 653,
+          "off_end": 656,
+          "next_word": 76,
+          "sentence_index": 75,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "punct",
+          "wf": ".",
+          "off_start": 657,
+          "off_end": 658,
+          "next_word": 77,
+          "sentence_index": 76,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "3 . Автономнай округӄын Государственнай властим осуществляицпотын : а ) законодательный властим - автономнай округӄый насаления посредстваса окружной референдумса ныны законодательнай ( представительнай ) властьса органын государственнай властьӄый автономнай округӄый - автономнай округӄый Государственнай Думам ; б ) исполнительный властим-мэрӄы исполнительнай орган государственнай властыӄый автономнай округӄый , возглавляиӈпый мэркы должностной лицоса автономнай округӄый - автономнай округӄый Губернаторса , ныны формироваиӈпый мэрӄы исполнительный органса государственнай властьӄый автономнай округӄый ; в ) судебный властим - автономнай округӄый суд .",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 658,
+          "para_id": 3
+        }
+      ]
+    }
+  ]
+}
