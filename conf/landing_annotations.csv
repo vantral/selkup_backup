@@ -1,5 +1,6 @@
 ﻿language,kind,key,title_ru,title_en,description_ru,description_en
 selkup,language,selkup,Северноселькупский язык,Northern Selkup,,
+selkup,group,Agreement,Согласование,Agreement,,
 selkup,tag,1PL,"первое лицо, множественное число","first person, plural","Помета обозначает: первое лицо, множественное число.","The tag marks: first person, plural."
 selkup,tag,1PL.ADD,"первое лицо, множественное число, аддитив","first person, plural, additive","Помета обозначает: первое лицо, множественное число, аддитив.","The tag marks: first person, plural, additive."
 selkup,tag,1SG,"первое лицо, единственное число","first person, singular","Помета обозначает: первое лицо, единственное число.","The tag marks: first person, singular."
@@ -8,108 +9,122 @@ selkup,tag,2SG,"второе лицо, единственное число","sec
 selkup,tag,3,третье лицо,third person,Помета обозначает: третье лицо.,The tag marks: third person.
 selkup,tag,3PL,"третье лицо, множественное число","third person, plural","Помета обозначает: третье лицо, множественное число.","The tag marks: third person, plural."
 selkup,tag,3SG,"третье лицо, единственное число","third person, singular","Помета обозначает: третье лицо, единственное число.","The tag marks: third person, singular."
+selkup,group,Particles,Частицы,Particles,,
 selkup,tag,=ADD,аддитив,additive,Помета обозначает: аддитив.,The tag marks: additive.
 selkup,tag,=CONTR,контрастив,contrastive,Помета обозначает: контрастив.,The tag marks: contrastive.
 selkup,tag,=EMPH,эмфатическая частица,emphatic,Помета обозначает: эмфатическая частица.,The tag marks: emphatic.
 selkup,tag,=ENCL,энклитика,enclitic,Помета обозначает: энклитика.,The tag marks: enclitic.
 selkup,tag,=POL1,энклитическое смягчение категоричности перед императивом,enclitic pre-imperative non-categorical marker,Помета обозначает: энклитическое смягчение категоричности перед императивом.,The tag marks: enclitic pre-imperative non-categorical marker.
 selkup,tag,=PTCL,частица,particle,Помета обозначает: частица.,The tag marks: particle.
+selkup,tag,PART,частица,particle,Помета обозначает: частица.,The tag marks: particle.
+selkup,tag,POL2,"смягчение категоричности перед императивом, тип 2","pre-imperative non-categorical marker, type 2","Помета обозначает: смягчение категоричности перед императивом, тип 2.","The tag marks: pre-imperative non-categorical marker, type 2."
+selkup,group,Cases,Падежи,Cases,,
 selkup,tag,ABL,аблатив,ablative,Помета обозначает: аблатив.,The tag marks: ablative.
 selkup,tag,ACC,винительный падеж,accusative,Помета обозначает: винительный падеж.,The tag marks: accusative.
-selkup,tag,ADV,наречие,adverb,Помета обозначает: наречие.,The tag marks: adverb.
-selkup,tag,AGGR,агрегатив,aggregative,Помета обозначает: агрегатив.,The tag marks: aggregative.
-selkup,tag,AOR,аорист,aorist,Помета обозначает: аорист.,The tag marks: aorist.
-selkup,tag,AOR.3PL,"аорист, третье лицо, множественное число","aorist, third person, plural","Помета обозначает: аорист, третье лицо, множественное число.","The tag marks: aorist, third person, plural."
-selkup,tag,AOR.3SG,"аорист, третье лицо, единственное число","aorist, third person, singular","Помета обозначает: аорист, третье лицо, единственное число.","The tag marks: aorist, third person, singular."
-selkup,tag,APROX,аппроксиматив,approximative,Помета обозначает: аппроксиматив.,The tag marks: approximative.
-selkup,tag,ATT,аттенуатив,attenuative,Помета обозначает: аттенуатив.,The tag marks: attenuative.
-selkup,tag,ATTR,атрибутив,attributive,Помета обозначает: атрибутив.,The tag marks: attributive.
-selkup,tag,ATTR.MEAS,"атрибутив, количественный показатель","attributive, measure","Помета обозначает: атрибутив, количественный показатель.","The tag marks: attributive, measure."
 selkup,tag,CAR,каритив,caritive,Помета обозначает: каритив.,The tag marks: caritive.
-selkup,tag,CAUS,каузатив,causative,Помета обозначает: каузатив.,The tag marks: causative.
-selkup,tag,CAUS.DIST,"каузатив, искажённая форма","causative, distorted form","Помета обозначает: каузатив, искажённая форма.","The tag marks: causative, distorted form."
-selkup,tag,CMPR,сравнительная степень,comparative,Помета обозначает: сравнительная степень.,The tag marks: comparative.
-selkup,tag,COLL,собирательность,collective,Помета обозначает: собирательность.,The tag marks: collective.
 selkup,tag,COM,комитатив,comitative,Помета обозначает: комитатив.,The tag marks: comitative.
-selkup,tag,CVB,конверб,converb,Помета обозначает: конверб.,The tag marks: converb.
-selkup,tag,CVB.LIM,"конверб, ограничительное значение","converb, limitative","Помета обозначает: конверб, ограничительное значение.","The tag marks: converb, limitative."
-selkup,tag,CVB.POST,"конверб, послелог","converb, postposition","Помета обозначает: конверб, послелог.","The tag marks: converb, postposition."
-selkup,tag,CVB.SIM,"конверб, одновременность","converb, simultaneous","Помета обозначает: конверб, одновременность.","The tag marks: converb, simultaneous."
 selkup,tag,DAT,дательный падеж,dative,Помета обозначает: дательный падеж.,The tag marks: dative.
 selkup,tag,DAT.POSS.1SG,"дательный падеж, посессивность, первое лицо, единственное число","dative, possessive, first person, singular","Помета обозначает: дательный падеж, посессивность, первое лицо, единственное число.","The tag marks: dative, possessive, first person, singular."
 selkup,tag,DAT.POSS.2SG,"дательный падеж, посессивность, второе лицо, единственное число","dative, possessive, second person, singular","Помета обозначает: дательный падеж, посессивность, второе лицо, единственное число.","The tag marks: dative, possessive, second person, singular."
-selkup,tag,DEADJ,отадъективная деривация,deadjectival derivation,Помета обозначает: отадъективная деривация.,The tag marks: deadjectival derivation.
-selkup,tag,DEB,дебитив,debitive,Помета обозначает: дебитив.,The tag marks: debitive.
-selkup,tag,DEB.ADD,"дебитив, аддитив","debitive, additive","Помета обозначает: дебитив, аддитив.","The tag marks: debitive, additive."
-selkup,tag,DENOM,отыменный глагол,denominal verb,Помета обозначает: отыменный глагол.,The tag marks: denominal verb.
-selkup,tag,DENOM1,отыменный глагол,denominal verb,Помета обозначает: отыменный глагол.,The tag marks: denominal verb.
-selkup,tag,DENOM2,отыменный глагол,denominal verb,Помета обозначает: отыменный глагол.,The tag marks: denominal verb.
-selkup,tag,DES,дезидератив,desiderative,Помета обозначает: дезидератив.,The tag marks: desiderative.
-selkup,tag,DEST,показатель назначения,destination marker,Помета обозначает: показатель назначения.,The tag marks: destination marker.
-selkup,tag,DETR1,детранзитив,detransitivizer,Помета обозначает: детранзитив.,The tag marks: detransitivizer.
-selkup,tag,DETR2,детранзитив,detransitivizer,Помета обозначает: детранзитив.,The tag marks: detransitivizer.
 selkup,tag,EL,элатив,elative,Помета обозначает: элатив.,The tag marks: elative.
-selkup,tag,FULL,полная форма,full form,Помета обозначает: полная форма.,The tag marks: full form.
 selkup,tag,GEN,родительный падеж,genitive,Помета обозначает: родительный падеж.,The tag marks: genitive.
 selkup,tag,ILL,иллатив,illative,Помета обозначает: иллатив.,The tag marks: illative.
 selkup,tag,ILL2,иллатив,illative,Помета обозначает: иллатив.,The tag marks: illative.
-selkup,tag,IMP,императив,imperative,Помета обозначает: императив.,The tag marks: imperative.
-selkup,tag,IMP.2PL,"императив, второе лицо, множественное число","imperative, second person, plural","Помета обозначает: императив, второе лицо, множественное число.","The tag marks: imperative, second person, plural."
 selkup,tag,IN,инессив,inessive,Помета обозначает: инессив.,The tag marks: inessive.
 selkup,tag,IN2,инессив,inessive,Помета обозначает: инессив.,The tag marks: inessive.
-selkup,tag,INCH,инхоатив,inchoative,Помета обозначает: инхоатив.,The tag marks: inchoative.
-selkup,tag,INDEF1,неопределённость,indefinite,Помета обозначает: неопределённость.,The tag marks: indefinite.
-selkup,tag,INDEF2,неопределённость,indefinite,Помета обозначает: неопределённость.,The tag marks: indefinite.
-selkup,tag,INDEF3,неопределённость,indefinite,Помета обозначает: неопределённость.,The tag marks: indefinite.
-selkup,tag,INF,инфинитив,infinitive,Помета обозначает: инфинитив.,The tag marks: infinitive.
+selkup,tag,LAT,латив,lative,Помета обозначает: латив.,The tag marks: lative.
+selkup,tag,LAT2,латив,lative,Помета обозначает: латив.,The tag marks: lative.
+selkup,tag,SIM,одновременность,simultaneous,Помета обозначает: одновременность.,The tag marks: simultaneous.
+selkup,group,Aspect,Вид,Aspect,,
+selkup,tag,APROX,аппроксиматив,approximative,Помета обозначает: аппроксиматив.,The tag marks: approximative.
+selkup,tag,ATT,аттенуатив,attenuative,Помета обозначает: аттенуатив.,The tag marks: attenuative.
 selkup,tag,ITER1,итератив,iterative,Помета обозначает: итератив.,The tag marks: iterative.
 selkup,tag,ITER2,итератив,iterative,Помета обозначает: итератив.,The tag marks: iterative.
 selkup,tag,ITER3,итератив,iterative,Помета обозначает: итератив.,The tag marks: iterative.
-selkup,tag,JUSS.PL,"юссив, множественное число","jussive, plural","Помета обозначает: юссив, множественное число.","The tag marks: jussive, plural."
-selkup,tag,JUSS.SG,"юссив, единственное число","jussive, singular","Помета обозначает: юссив, единственное число.","The tag marks: jussive, singular."
-selkup,tag,KIN,показатель термина родства,kinship-term marker,Помета обозначает: показатель термина родства.,The tag marks: kinship-term marker.
-selkup,tag,LAT,латив,lative,Помета обозначает: латив.,The tag marks: lative.
-selkup,tag,LAT2,латив,lative,Помета обозначает: латив.,The tag marks: lative.
-selkup,tag,MAN,глагол образа действия,manner verb,Помета обозначает: глагол образа действия.,The tag marks: manner verb.
-selkup,tag,MED,медиопассив,mediopassive,Помета обозначает: медиопассив.,The tag marks: mediopassive.
-selkup,tag,NACT,отглагольное имя,deverbal noun,Помета обозначает: отглагольное имя.,The tag marks: deverbal noun.
-selkup,tag,NAG,имя деятеля,agent noun,Помета обозначает: имя деятеля.,The tag marks: agent noun.
-selkup,tag,NEG,отрицание,negation,Помета обозначает: отрицание.,The tag marks: negation.
-selkup,tag,NEG.ATTR,"отрицание, атрибутив","negation, attributive","Помета обозначает: отрицание, атрибутив.","The tag marks: negation, attributive."
-selkup,tag,NEG.CVB,"отрицание, конверб","negation, converb","Помета обозначает: отрицание, конверб.","The tag marks: negation, converb."
-selkup,tag,NEG.PRET,"отрицание, претерит","negation, preterite","Помета обозначает: отрицание, претерит.","The tag marks: negation, preterite."
-selkup,tag,NEG.PTCP,"отрицание, причастие","negation, participle","Помета обозначает: отрицание, причастие.","The tag marks: negation, participle."
-selkup,tag,NMLZ,номинализация,nominalization,Помета обозначает: номинализация.,The tag marks: nominalization.
-selkup,tag,NMLZ.ILL,"номинализация, иллатив","nominalization, illative","Помета обозначает: номинализация, иллатив.","The tag marks: nominalization, illative."
-selkup,tag,NMLZ.IN,"номинализация, инессив","nominalization, inessive","Помета обозначает: номинализация, инессив.","The tag marks: nominalization, inessive."
+selkup,tag,PUN,пунктив,punctive,Помета обозначает: пунктив.,The tag marks: punctive.
+selkup,tag,SEM,семельфактив,semelfactive,Помета обозначает: семельфактив.,The tag marks: semelfactive.
+selkup,group,Tense,Время,Tense,,
+selkup,tag,AOR,аорист,aorist,Помета обозначает: аорист.,The tag marks: aorist.
+selkup,tag,AOR.3PL,"аорист, третье лицо, множественное число","aorist, third person, plural","Помета обозначает: аорист, третье лицо, множественное число.","The tag marks: aorist, third person, plural."
+selkup,tag,AOR.3SG,"аорист, третье лицо, единственное число","aorist, third person, singular","Помета обозначает: аорист, третье лицо, единственное число.","The tag marks: aorist, third person, singular."
 selkup,tag,NPST.1PL,"непрошедшее время, первое лицо, множественное число","non-past, first person, plural","Помета обозначает: непрошедшее время, первое лицо, множественное число.","The tag marks: non-past, first person, plural."
 selkup,tag,NPST.1SG,"непрошедшее время, первое лицо, единственное число","non-past, first person, singular","Помета обозначает: непрошедшее время, первое лицо, единственное число.","The tag marks: non-past, first person, singular."
 selkup,tag,NPST.2PL,"непрошедшее время, второе лицо, множественное число","non-past, second person, plural","Помета обозначает: непрошедшее время, второе лицо, множественное число.","The tag marks: non-past, second person, plural."
 selkup,tag,NPST.2SG,"непрошедшее время, второе лицо, единственное число","non-past, second person, singular","Помета обозначает: непрошедшее время, второе лицо, единственное число.","The tag marks: non-past, second person, singular."
 selkup,tag,NPST.3PL,"непрошедшее время, третье лицо, множественное число","non-past, third person, plural","Помета обозначает: непрошедшее время, третье лицо, множественное число.","The tag marks: non-past, third person, plural."
 selkup,tag,NPST.3SG,"непрошедшее время, третье лицо, единственное число","non-past, third person, singular","Помета обозначает: непрошедшее время, третье лицо, единственное число.","The tag marks: non-past, third person, singular."
+selkup,tag,PRET,претерит,preterite,Помета обозначает: претерит.,The tag marks: preterite.
+selkup,tag,RETR1,"ретроспективный сдвиг, тип 1","retrospective shift, type 1","Помета обозначает: ретроспективный сдвиг, тип 1.","The tag marks: retrospective shift, type 1."
+selkup,tag,RETR2,"ретроспективный сдвиг, тип 2","retrospective shift, type 2","Помета обозначает: ретроспективный сдвиг, тип 2.","The tag marks: retrospective shift, type 2."
+selkup,group,Mood,Наклонение,Mood,,
+selkup,tag,DEB,дебитив,debitive,Помета обозначает: дебитив.,The tag marks: debitive.
+selkup,tag,DEB.ADD,"дебитив, аддитив","debitive, additive","Помета обозначает: дебитив, аддитив.","The tag marks: debitive, additive."
+selkup,tag,DES,дезидератив,desiderative,Помета обозначает: дезидератив.,The tag marks: desiderative.
+selkup,tag,IMP,императив,imperative,Помета обозначает: императив.,The tag marks: imperative.
+selkup,tag,IMP.2PL,"императив, второе лицо, множественное число","imperative, second person, plural","Помета обозначает: императив, второе лицо, множественное число.","The tag marks: imperative, second person, plural."
+selkup,tag,JUSS.PL,"юссив, множественное число","jussive, plural","Помета обозначает: юссив, множественное число.","The tag marks: jussive, plural."
+selkup,tag,JUSS.SG,"юссив, единственное число","jussive, singular","Помета обозначает: юссив, единственное число.","The tag marks: jussive, singular."
 selkup,tag,OPT,оптатив,optative,Помета обозначает: оптатив.,The tag marks: optative.
-selkup,tag,ORD,порядковое числительное,ordinal,Помета обозначает: порядковое числительное.,The tag marks: ordinal.
-selkup,tag,PART,частица,particle,Помета обозначает: частица.,The tag marks: particle.
+selkup,group,Non-finite,Нефинитные формы,Non-finite forms,,
+selkup,tag,CVB,конверб,converb,Помета обозначает: конверб.,The tag marks: converb.
+selkup,tag,CVB.LIM,"конверб, ограничительное значение","converb, limitative","Помета обозначает: конверб, ограничительное значение.","The tag marks: converb, limitative."
+selkup,tag,CVB.POST,"конверб, послелог","converb, postposition","Помета обозначает: конверб, послелог.","The tag marks: converb, postposition."
+selkup,tag,CVB.SIM,"конверб, одновременность","converb, simultaneous","Помета обозначает: конверб, одновременность.","The tag marks: converb, simultaneous."
+selkup,tag,INF,инфинитив,infinitive,Помета обозначает: инфинитив.,The tag marks: infinitive.
+selkup,tag,NACT,отглагольное имя,deverbal noun,Помета обозначает: отглагольное имя.,The tag marks: deverbal noun.
+selkup,tag,NAG,имя деятеля,agent noun,Помета обозначает: имя деятеля.,The tag marks: agent noun.
+selkup,tag,NMLZ,номинализация,nominalization,Помета обозначает: номинализация.,The tag marks: nominalization.
+selkup,tag,NMLZ.ILL,"номинализация, иллатив","nominalization, illative","Помета обозначает: номинализация, иллатив.","The tag marks: nominalization, illative."
+selkup,tag,NMLZ.IN,"номинализация, инессив","nominalization, inessive","Помета обозначает: номинализация, инессив.","The tag marks: nominalization, inessive."
+selkup,tag,PTCP.ACT,"причастие, действительный залог","participle, active","Помета обозначает: причастие, действительный залог.","The tag marks: participle, active."
+selkup,tag,PTCP.PASS/NMLZ,"причастие, страдательный залог, номинализация","participle, passive, nominalization","Помета обозначает: причастие, страдательный залог, номинализация.","The tag marks: participle, passive, nominalization."
+selkup,group,Valency derivation,Изменение валентности,Valency-changing derivation,,
+selkup,tag,CAUS,каузатив,causative,Помета обозначает: каузатив.,The tag marks: causative.
+selkup,tag,CAUS.DIST,"каузатив, искажённая форма","causative, distorted form","Помета обозначает: каузатив, искажённая форма.","The tag marks: causative, distorted form."
+selkup,tag,DETR1,детранзитив,detransitivizer,Помета обозначает: детранзитив.,The tag marks: detransitivizer.
+selkup,tag,DETR2,детранзитив,detransitivizer,Помета обозначает: детранзитив.,The tag marks: detransitivizer.
+selkup,tag,MED,медиопассив,mediopassive,Помета обозначает: медиопассив.,The tag marks: mediopassive.
+selkup,group,Denominal derivation,Отыменная деривация,Denominal derivation,,
+selkup,tag,DEADJ,отадъективная деривация,deadjectival derivation,Помета обозначает: отадъективная деривация.,The tag marks: deadjectival derivation.
+selkup,tag,DENOM,отыменный глагол,denominal verb,Помета обозначает: отыменный глагол.,The tag marks: denominal verb.
+selkup,tag,DENOM1,отыменный глагол,denominal verb,Помета обозначает: отыменный глагол.,The tag marks: denominal verb.
+selkup,tag,DENOM2,отыменный глагол,denominal verb,Помета обозначает: отыменный глагол.,The tag marks: denominal verb.
+selkup,tag,INCH,инхоатив,inchoative,Помета обозначает: инхоатив.,The tag marks: inchoative.
+selkup,tag,MAN,глагол образа действия,manner verb,Помета обозначает: глагол образа действия.,The tag marks: manner verb.
+selkup,group,Nominal derivation,Именная деривация,Nominal derivation,,
+selkup,tag,ADV,наречие,adverb,Помета обозначает: наречие.,The tag marks: adverb.
+selkup,tag,ATTR,атрибутив,attributive,Помета обозначает: атрибутив.,The tag marks: attributive.
+selkup,tag,ATTR.MEAS,"атрибутив, количественный показатель","attributive, measure","Помета обозначает: атрибутив, количественный показатель.","The tag marks: attributive, measure."
+selkup,tag,DEST,показатель назначения,destination marker,Помета обозначает: показатель назначения.,The tag marks: destination marker.
+selkup,tag,FULL,полная форма,full form,Помета обозначает: полная форма.,The tag marks: full form.
+selkup,tag,PROP,проприетив,proprietive,Помета обозначает: проприетив.,The tag marks: proprietive.
+selkup,tag,STEM,основа,stem,Помета обозначает: основа.,The tag marks: stem.
+selkup,group,Negation,Отрицание,Negation,,
+selkup,tag,NEG,отрицание,negation,Помета обозначает: отрицание.,The tag marks: negation.
+selkup,tag,NEG.ATTR,"отрицание, атрибутив","negation, attributive","Помета обозначает: отрицание, атрибутив.","The tag marks: negation, attributive."
+selkup,tag,NEG.CVB,"отрицание, конверб","negation, converb","Помета обозначает: отрицание, конверб.","The tag marks: negation, converb."
+selkup,tag,NEG.PRET,"отрицание, претерит","negation, preterite","Помета обозначает: отрицание, претерит.","The tag marks: negation, preterite."
+selkup,tag,NEG.PTCP,"отрицание, причастие","negation, participle","Помета обозначает: отрицание, причастие.","The tag marks: negation, participle."
+selkup,group,Number,Число,Number,,
 selkup,tag,PL,множественное число,plural,Помета обозначает: множественное число.,The tag marks: plural.
-selkup,tag,POL2,"смягчение категоричности перед императивом, тип 2","pre-imperative non-categorical marker, type 2","Помета обозначает: смягчение категоричности перед императивом, тип 2.","The tag marks: pre-imperative non-categorical marker, type 2."
+selkup,group,Numerals,Числительные,Numerals,,
+selkup,tag,AGGR,агрегатив,aggregative,Помета обозначает: агрегатив.,The tag marks: aggregative.
+selkup,tag,COLL,собирательность,collective,Помета обозначает: собирательность.,The tag marks: collective.
+selkup,tag,ORD,порядковое числительное,ordinal,Помета обозначает: порядковое числительное.,The tag marks: ordinal.
+selkup,group,Possessiveness,Посессивность,Possessiveness,,
 selkup,tag,POSS.1PL,"посессивность, первое лицо, множественное число","possessive, first person, plural","Помета обозначает: посессивность, первое лицо, множественное число.","The tag marks: possessive, first person, plural."
 selkup,tag,POSS.1SG,"посессивность, первое лицо, единственное число","possessive, first person, singular","Помета обозначает: посессивность, первое лицо, единственное число.","The tag marks: possessive, first person, singular."
 selkup,tag,POSS.2PL,"посессивность, второе лицо, множественное число","possessive, second person, plural","Помета обозначает: посессивность, второе лицо, множественное число.","The tag marks: possessive, second person, plural."
 selkup,tag,POSS.2SG,"посессивность, второе лицо, единственное число","possessive, second person, singular","Помета обозначает: посессивность, второе лицо, единственное число.","The tag marks: possessive, second person, singular."
 selkup,tag,POSS.3PL,"посессивность, третье лицо, множественное число","possessive, third person, plural","Помета обозначает: посессивность, третье лицо, множественное число.","The tag marks: possessive, third person, plural."
 selkup,tag,POSS.3SG,"посессивность, третье лицо, единственное число","possessive, third person, singular","Помета обозначает: посессивность, третье лицо, единственное число.","The tag marks: possessive, third person, singular."
-selkup,tag,PRET,претерит,preterite,Помета обозначает: претерит.,The tag marks: preterite.
-selkup,tag,PROP,проприетив,proprietive,Помета обозначает: проприетив.,The tag marks: proprietive.
-selkup,tag,PTCP.ACT,"причастие, действительный залог","participle, active","Помета обозначает: причастие, действительный залог.","The tag marks: participle, active."
-selkup,tag,PTCP.PASS/NMLZ,"причастие, страдательный залог, номинализация","participle, passive, nominalization","Помета обозначает: причастие, страдательный залог, номинализация.","The tag marks: participle, passive, nominalization."
-selkup,tag,PUN,пунктив,punctive,Помета обозначает: пунктив.,The tag marks: punctive.
+selkup,group,Other tags,Прочие пометы,Other tags,,
+selkup,tag,CMPR,сравнительная степень,comparative,Помета обозначает: сравнительная степень.,The tag marks: comparative.
+selkup,tag,INDEF1,неопределённость,indefinite,Помета обозначает: неопределённость.,The tag marks: indefinite.
+selkup,tag,INDEF2,неопределённость,indefinite,Помета обозначает: неопределённость.,The tag marks: indefinite.
+selkup,tag,INDEF3,неопределённость,indefinite,Помета обозначает: неопределённость.,The tag marks: indefinite.
+selkup,tag,KIN,показатель термина родства,kinship-term marker,Помета обозначает: показатель термина родства.,The tag marks: kinship-term marker.
 selkup,tag,RAR,редкая форма,rare form,Помета обозначает: редкая форма.,The tag marks: rare form.
 selkup,tag,REFL,рефлексив,reflexive,Помета обозначает: рефлексив.,The tag marks: reflexive.
-selkup,tag,RETR1,"ретроспективный сдвиг, тип 1","retrospective shift, type 1","Помета обозначает: ретроспективный сдвиг, тип 1.","The tag marks: retrospective shift, type 1."
-selkup,tag,RETR2,"ретроспективный сдвиг, тип 2","retrospective shift, type 2","Помета обозначает: ретроспективный сдвиг, тип 2.","The tag marks: retrospective shift, type 2."
-selkup,tag,SEM,семельфактив,semelfactive,Помета обозначает: семельфактив.,The tag marks: semelfactive.
-selkup,tag,SIM,одновременность,simultaneous,Помета обозначает: одновременность.,The tag marks: simultaneous.
 selkup,tag,SINCE,значение «с тех пор»,meaning ‘since then’,Помета обозначает: значение «с тех пор».,The tag marks: meaning ‘since then’.
-selkup,tag,STEM,основа,stem,Помета обозначает: основа.,The tag marks: stem.
 russian,language,russian,Русский язык,Russian,,

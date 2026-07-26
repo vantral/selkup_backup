@@ -16,14 +16,17 @@ ABL	ablative
 ACC	accusative
 ADV	adverb
 AGGR	aggregative
+Agreement	Agreement
 AOR	aorist
 AOR.3PL	aorist, third person, plural
 AOR.3SG	aorist, third person, singular
 APROX	approximative
+Aspect	Aspect
 ATT	attenuative
 ATTR	attributive
 ATTR.MEAS	attributive, measure
 CAR	caritive
+Cases	Cases
 CAUS	causative
 CAUS.DIST	causative, distorted form
 CMPR	comparative
@@ -42,6 +45,7 @@ DEB.ADD	debitive, additive
 DENOM	denominal verb
 DENOM1	denominal verb
 DENOM2	denominal verb
+Denominal derivation	Denominal derivation
 DES	desiderative
 DEST	destination marker
 DETR1	detransitivizer
@@ -70,6 +74,7 @@ LAT	lative
 LAT2	lative
 MAN	manner verb
 MED	mediopassive
+Mood	Mood
 NACT	deverbal noun
 NAG	agent noun
 NEG	negation
@@ -77,18 +82,25 @@ NEG.ATTR	negation, attributive
 NEG.CVB	negation, converb
 NEG.PRET	negation, preterite
 NEG.PTCP	negation, participle
+Negation	Negation
 NMLZ	nominalization
 NMLZ.ILL	nominalization, illative
 NMLZ.IN	nominalization, inessive
+Nominal derivation	Nominal derivation
+Non-finite	Non-finite forms
 NPST.1PL	non-past, first person, plural
 NPST.1SG	non-past, first person, singular
 NPST.2PL	non-past, second person, plural
 NPST.2SG	non-past, second person, singular
 NPST.3PL	non-past, third person, plural
 NPST.3SG	non-past, third person, singular
+Number	Number
+Numerals	Numerals
 OPT	optative
 ORD	ordinal
+Other tags	Other tags
 PART	particle
+Particles	Particles
 PL	plural
 POL2	pre-imperative non-categorical marker, type 2
 POSS.1PL	possessive, first person, plural
@@ -97,6 +109,7 @@ POSS.2PL	possessive, second person, plural
 POSS.2SG	possessive, second person, singular
 POSS.3PL	possessive, third person, plural
 POSS.3SG	possessive, third person, singular
+Possessiveness	Possessiveness
 PRET	preterite
 PROP	proprietive
 PTCP.ACT	participle, active
@@ -110,3 +123,5 @@ SEM	semelfactive
 SIM	simultaneous
 SINCE	meaning ‘since then’
 STEM	stem
+Tense	Tense
+Valency derivation	Valency-changing derivation
