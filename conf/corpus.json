@@ -17,6 +17,10 @@
   "year_sort_enabled": true,
   "corpus_name": "selkup",
   "start_page_url": "./",
+  "landing_language_names": {
+    "selkup": "Северноселькупский язык",
+    "russian": "Русский язык"
+  },
   "citation": "Selkup corpus.",
   "viewable_meta": ["title", "filename"],
   "sentence_meta": [],
