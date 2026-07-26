@@ -16,6 +16,7 @@
   "query_timeout": 60,
   "year_sort_enabled": true,
   "corpus_name": "selkup",
+  "start_page_url": "./",
   "citation": "Selkup corpus.",
   "viewable_meta": ["title", "filename"],
   "sentence_meta": [],
