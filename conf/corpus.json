@@ -1,7 +1,8 @@
 {
   "generate_dictionary": true,
   "fulltext_view_enabled": true,
-  "interface_languages": ["en"],
+  "interface_languages": ["ru", "en"],
+  "default_locale": "ru",
   "all_language_search_enabled": false,
   "gloss_search_enabled": true,
   "ambiguous_analyses": true,
@@ -20,6 +21,10 @@
   "landing_language_names": {
     "selkup": "Северноселькупский язык",
     "russian": "Русский язык"
+  },
+  "landing_language_names_en": {
+    "selkup": "Northern Selkup",
+    "russian": "Russian"
   },
   "citation": "Selkup corpus.",
   "viewable_meta": ["title", "filename"],
